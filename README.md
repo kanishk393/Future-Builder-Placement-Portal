@@ -32,4 +32,4 @@ During the development of FutureBuilder, I extensively utilized various Java con
 
 Developing FutureBuilder was an enriching experience, showcasing my Java proficiency and ability to create a robust, feature-rich placement portal. Through this project, I have gained a deep understanding of the complexities involved in designing and implementing a system that caters to the diverse needs of students, the placement cell, and companies. FutureBuilder exemplifies my dedication, hard work, and commitment to creating innovative solutions.
 
-Thank you for taking the time to explore FutureBuilder. This portal revolutionizes the placement process and provides an exceptional experience for all users.
+
